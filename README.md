@@ -29,23 +29,6 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 - C: <img src="https://www.jalalmhz.ir/wp-content/uploads/2021/05/Introduction-to-C-programming-language.png" align="center" style="margin-left:10px;margin-bottom:5px" width=30px/>
 
-## Q&A
-
-`Question submit Form`https://docs.google.com/forms/d/e/1FAIpQLSemyVfAUHCbPG-4Yn5_IoO1POIJeQSsxIRmQCRuinNzbKiarA/viewform
-<br />
-`Answer`https://docs.google.com/spreadsheets/d/e/2PACX-1vR7Bvs_tg_1_zoRZt43KhYNAPug8E_TkE1Ezyii5a11CaXA8Co4X1VmddilCufARaMHZT_bBTCQ-6pM/pubhtml
-
-[fb1]: https://www.facebook.com/toanvo4121/
-[fb2]: https://www.facebook.com/Cuongflorid/
-[fb3]: https://www.facebook.com/kazami190125/
-[fb4]: https://www.facebook.com/hailinh.nguyen.359126/
-[fb5]: https://www.facebook.com/luan.le98765/
-[fb6]: https://www.facebook.com/na.vothi2010/
-[fb7]: https://www.facebook.com/dat.ngo12345/
-[git1]: https://github.com/toanvo4121
-[git2]: https://github.com/CuongFlodric
-[git3]: https://github.com/HandsOfGoddest
-[git4]: https://github.com/Halee1505
-[git5]: https://github.com/luanle912
-[git6]: https://github.com/VoThiNa2010
-[git7]: https://github.com/ntdat1107
+[fb1]: https://www.facebook.com/kazami190125/
+[fb2]: https://www.facebook.com/hailinh.nguyen.359126/
+[fb3]: https://www.facebook.com/vandung.pham.3939503
