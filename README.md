@@ -7,13 +7,13 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 [![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HCMUT_official_logo.png/238px-HCMUT_official_logo.png)](https://www.hcmut.edu.vn/vi)
 
-**Software Engineering / Semester 211**
+**Operating System / Semester 202**
 <br/>
-**Group 3**
+**Group 7**
 
 </div>
 
-# Project: BEN'S QUEENS (Restaurant POS 2.0)
+# Project: Simple Operating System
 
 ## Team members
 
