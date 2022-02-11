@@ -19,10 +19,10 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 
 | No. | Name             | Student ID | Email                          | Contact                                                                                                                                                                                                                     |
 | :-: | ---------------- | :--------: | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1  | Phạm Minh Duy    |  1915570   | toan.vo4121@gmail.com          | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb1] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git1] |
+|  1  | Phạm Minh Duy    |  1915570   | toan.vo4121@gmail.com          | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb3] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git3] |
 |  2  | Nguyễn Hải Linh  |  1912817   | cuong.danghcmut@hcmut.edu.vn   | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb2] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git2] |
-|  3  | Nguyễn Đình Hiếu |  1913341   | hieu.nguyen190125@hcmut.edu.vn | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb3] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git3] |
-|  4  | Nguyễn Thế Huy  |  1913944   | linh.nguyen1505@hcmut.edu.vn   | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb4] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git4] |
+|  3  | Nguyễn Đình Hiếu |  1913341   | hieu.nguyen190125@hcmut.edu.vn | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb1] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git1] |
+|  4  | Nguyễn Thế Huy  |  1913944   | linh.nguyen1505@hcmut.edu.vn   | [<img src="https://cdn-icons-png.flaticon.com/512/20/20673.png" align="left" width=20px/>][fb2] [<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" align="left" width=20px style="margin-left:5px" />][git2] |
 
 
 ## Languages & Tools
@@ -32,3 +32,7 @@ FACULTY OF COMPUTER SCIENCE AND ENGINEERING
 [fb1]: https://www.facebook.com/kazami190125/
 [fb2]: https://www.facebook.com/hailinh.nguyen.359126/
 [fb3]: https://www.facebook.com/vandung.pham.3939503
+
+[git1]: https://github.com/HandsOfGoddest
+[git2]: https://github.com/Halee1505
+[git3]:
